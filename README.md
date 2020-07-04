@@ -4,7 +4,7 @@ This is a JavaFX Application.
 
 This is an Application where a User can create a new ToDo Note, along with giving it a Due Date.
 
-As the deadline approaches, the subkect/ title of the item will change color.
+As the deadline approaches, the subject/ title of the ToDoNote will change in color.
 
 1 Week Before, Color: Green
 4 days before, Color: similar to a light green
