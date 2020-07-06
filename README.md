@@ -21,4 +21,4 @@ The user can also DELETE a note
 
 An option to View, Items that are done DAY OF, or view ALL.
 
-The users ToDoNotes are also sorted by Due Date that is closest.
+The users ToDoNotes are also sorted by closest Due Date.
