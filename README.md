@@ -2,7 +2,7 @@
 
 This is a JavaFX Application.
 
-This is an Application where a User can create a new ToDo Note, along with giving it a Due Date.
+This is an Application where a User can create a new ToDo Task as well as assigning a Due Date.
 
 As the deadline approaches, the subject/ title of the ToDoNote will change in color.
 
