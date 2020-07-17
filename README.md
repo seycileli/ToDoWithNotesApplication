@@ -1,4 +1,4 @@
-# ToDoWithNotesApplication
+# To Do Task with a Note
 
 This is a JavaFX Application.
 
